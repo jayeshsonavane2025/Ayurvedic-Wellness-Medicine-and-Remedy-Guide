@@ -1,6 +1,6 @@
  # Digital Medicine Tracker
 
-An application to find nearby medicines using MySQL, Java, JSP, Servlet, and XAMPP.
+An application to find nearby medicines using  Java,MySQL,JSP, Servlet,HTML,CSS,JavaScript and XAMPP.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ An application to find nearby medicines using MySQL, Java, JSP, Servlet, and XAM
   - [Prerequisites](#prerequisites)
   - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+ 
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -68,6 +68,9 @@ git clone https://github.com/jayeshsonavane2025/Digital_Medicine_Tracker.git
 1. Launch the application.
 2. Search for the desired medicine.
 3. View a list of nearby pharmacies and medical facilities with the medicine.
+
+
+ 
 
  
 
