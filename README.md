@@ -1,6 +1,6 @@
  # Digital Medicine Tracker
 
-An application to find nearby medicines using  Java,MySQL,JSP, Servlet,HTML,CSS,JavaScript and XAMPP.
+An application to find nearby medicines using  Java,MySQL,JSP, Servlet,JDBC,HTML,CSS,JavaScript and XAMPP.
 
 ## Table of Contents
 
