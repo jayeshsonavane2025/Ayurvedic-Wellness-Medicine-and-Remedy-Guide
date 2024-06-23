@@ -4,6 +4,17 @@ An application to find nearby medicines using  Java,MySQL,JSP, Servlet,JDBC,HTML
 
 ## Table of Contents
 
+<img src="img/1.DashBoard.jpg" alt="Dashboard" style="width: 600px; margin-bottom: 10px;"/>
+<br>
+
+<img src="img/7_Pharma_Login_Page.jpg" alt="Pharmacy Login Page" style="width: 600px; margin-bottom: 10px;"/><br>
+
+<img src="img/8_Get_Location.jpg" alt="Get Location" style="width: 600px; margin-bottom: 10px;"/><br>
+
+<img src="img/ayu.png" alt="Ayurvedic Wellness Logo" style="width: 600px; margin-bottom: 10px;"/><br>
+
+<img src="img/viewAyu.png" alt="View Ayurvedic Wellness" style="width: 600px; margin-bottom: 10px;"/><br>
+
 - [Description](#description)
 - [Technologies](#technologies)
 - [Features](#features)
@@ -18,7 +29,7 @@ An application to find nearby medicines using  Java,MySQL,JSP, Servlet,JDBC,HTML
 
 ## Description
 
-The Digital Medicine Tracker is a comprehensive solution designed to assist users in locating nearby medicines efficiently. This application empowers users to seamlessly search for specific medicines and promptly discover nearby pharmacies and medical facilities where these medicines are available. 
+The Ayurvedic Wellness: Medicine and Remedy Guider is a comprehensive solution designed to assist users in locating nearby medicines efficiently. This application empowers users to seamlessly search for specific medicines and promptly discover nearby pharmacies and medical facilities where these medicines are available. 
 
 The backend is built on Java and incorporates JavaServer Pages (JSP) for rendering dynamic web pages and Servlets for managing user requests. The application's data is securely stored and managed using MySQL, ensuring efficient retrieval and storage of medicine and pharmacy information.
 
@@ -35,6 +46,9 @@ The backend is built on Java and incorporates JavaServer Pages (JSP) for renderi
 
 
 ## Features
+
+- **Search Ayurvedic Medicines:** Effortlessly search for specific Ayurvedic medicines and remedies.
+- **Nearby Ayurvedic Pharmacies:** Locate nearby pharmacies specializing in Ayurvedic medicines.
 
 - **Effortless Medicine Search:** Users can effortlessly search for specific medicines to verify their availability nearby.
 - **Location-based Results:** Leveraging location data, the application offers results relevant to the user's geographical position.
